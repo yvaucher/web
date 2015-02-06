@@ -24,10 +24,12 @@
     'author': 'ACSONE SA/NV',
     'maintainer': 'ACSONE SA/NV',
     'website': 'http://www.acsone.eu',
+    'license': 'AGPL-3',
     'category': 'Documentation',
     'depends': [
         'base',
         'website',
+    'license': 'AGPL-3',
     ],
     'description': """
 Help Online

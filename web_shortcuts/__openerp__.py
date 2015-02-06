@@ -24,6 +24,7 @@
     'category': 'Tools',
     'author': 'OpenERP SA',
     'website': 'http://openerp.com',
+    'license': 'AGPL-3',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',

@@ -25,6 +25,7 @@
     "name": "Show images in tree views",
     "version": "1.0",
     "author": "Therp BV",
+    "license": "AGPL-3",
     'url': 'https://github.com/OCA/Web',
     'depends': [
         'web',

@@ -23,6 +23,7 @@
 {
     'name': "Web Color",
     'author': "Savoir-faire Linux",
+    'license': 'AGPL-3',
     'category' : "Hidden",
     'description': """
     This module provides a color widget to display the color from

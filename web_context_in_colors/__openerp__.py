@@ -23,6 +23,7 @@
     "summary": "Use the context in a tree view's colors and fonts attribute",
     "version": "1.1",
     "author": "Therp BV",
+    "license": "AGPL-3",
     "complexity": "normal",
     "category": "Hidden/Dependency",
     "depends": [

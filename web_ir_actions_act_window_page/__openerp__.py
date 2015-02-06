@@ -24,6 +24,7 @@
                 "or next next record in the form view"),
     "version": "1.0",
     "author": "Therp BV",
+    "license": "AGPL-3",
     "category": "Dependency",
     "depends": ['web'],
     'data': ['view/qweb.xml'],

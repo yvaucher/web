@@ -25,6 +25,7 @@
     'author' : 'Serpent Consulting Services Pvt. Ltd.',
     'category' : 'Web',
     'website': 'http://www.serpentcs.com',
+    'license': 'AGPL-3',
     'description': """
 OpenERP Web Search Extended.
 ============================

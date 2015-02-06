@@ -25,6 +25,7 @@
     'version': '1.0',
     'author': 'Therp BV',
     'website': 'https://github.com/OCA/web',
+    'license': 'AGPL-3',
     'summary': 'Provides a widget for editing HTML fields using CKEditor 4.x',
     "category": "Tools",
     "depends": [

@@ -24,6 +24,7 @@
     'author': "Vauxoo",
     'category': "Web",
     'website': "http://vauxoo.com",
+    'license': 'AGPL-3',
     'description': """
 After install this module, you will not see anymore the
 "Manage Databases" link in login screen.

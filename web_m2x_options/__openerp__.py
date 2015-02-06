@@ -9,6 +9,7 @@
     ],
     'data': ['views/view.xml'],
     "author": "0k.io",
+    "license": "AGPL-3",
     "installable": True,
     "active": False,
 }
